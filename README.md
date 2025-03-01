@@ -21,5 +21,4 @@ Check out the live version here:
 
 
 ## Screenshots
-![To-Do List Screenshot](![image](https://github.com/user-attachments/assets/02e62d05-cd8d-4cad-ab88-f31f05a45396)
-)
+![To-Do List Screenshot](https://github.com/user-attachments/assets/02e62d05-cd8d-4cad-ab88-f31f05a45396)
