@@ -6,6 +6,7 @@ body {
     align-items: center;
     background-color: #DAF0FF;
     height: 700px;
+    font-family: "Noto Sans", serif;
 }
 
 .container {
